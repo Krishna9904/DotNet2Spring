@@ -1,0 +1,18 @@
+# .NET build folders
+bin/
+obj/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated Spring Boot output
+springboot-output/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
